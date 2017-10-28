@@ -1,6 +1,6 @@
 /**************************************************************************
-*   PROGRAM_NAME, VERSION                                                 *
-*   BRIEF_DESCRIPTION                                                     *
+*   PanicRoom.c                                                           *
+*   Escape do local utilizando os objetos que encontrar.                  *
 *                                                                         *
 *   Copyright (C) 2017 by Joao Vitor De Oliveira Silva                    *
 *                                                                         *
