@@ -1,5 +1,5 @@
 /**************************************************************************
-*   PanicRoom.c                                                           *
+*   PanicRoom.c, V0.1                                                     *
 *   Escape do local utilizando os objetos que encontrar.                  *
 *                                                                         *
 *   Copyright (C) 2017 by Joao Vitor De Oliveira Silva                    *
@@ -24,5 +24,13 @@
 *   Webpage: https://github.com/Mechanichs                                *
 *   Phone: +55 (81) 99823-9396                                            *
 ***************************************************************************/
+
+/*============================ BIBLIOTECAS ===============================*/
+//#include <stdio.h>
+//#include <stdlib.h>
+//#include <string.h>
+//#include <time.h>
+/*============================== DEFINES =================================*/
+//
 
 
